@@ -1,0 +1,10 @@
+KingdomBrunel@IsambardKingdomBrunel MINGW64 ~/Documents/GitGithubBoot_Exercises/Branching_Basics/Patronus (lily)
+$ git branch
+  harry
+* lily
+  master
+  snape
+
+KingdomBrunel@IsambardKingdomBrunel MINGW64 ~/Documents/GitGithubBoot_Exercises/Branching_Basics/Patronus (lily)
+$ git branch -d snape
+Deleted branch snape (was 7b9bde5).
