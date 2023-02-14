@@ -1,5 +1,9 @@
 # Branching Exercise
 
+```
+The point of this exercise is to demonstrate understanding of branching in Git and successfully execute relevant commands.
+```
+
 1. Make a new folder called `Patronus`
 2. Make a new git repo inside the folder (make sure you're not in an existing repo)
 3. Create a new file called `patronus.txt` (leave it empty for now)
