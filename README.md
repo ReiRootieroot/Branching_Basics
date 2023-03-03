@@ -1,7 +1,7 @@
 # Branching Exercise
 
 ---
-The point of this exercise is to demonstrate understanding of commiting in Git and successfully execute the following relevant commands:
+The point of this exercise is to demonstrate understanding of branches and act of branching in Git and successfully execute the following relevant commands:
     
 * git branch
 * git branch *branch-name*
