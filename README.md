@@ -1,8 +1,16 @@
 # Branching Exercise
 
-```
-The point of this exercise is to demonstrate understanding of branching in Git and successfully execute relevant commands.
-```
+---
+The point of this exercise is to demonstrate understanding of commiting in Git and successfully execute the following relevant commands:
+    
+* git branch
+* git branch *branch-name*
+* git switch *branch-name*
+* git checkout *branch-name*
+* git branch -d *branch-name*
+* git branch -m *branch-name* add
+* cat HEAD
+---
 
 1. Make a new folder called `Patronus`
 2. Make a new git repo inside the folder (make sure you're not in an existing repo)
